@@ -1,0 +1,6 @@
+{
+  "name": "Novelle - Reading Intelligence & Rewind",
+  "description": "Unified reading tracker for books, manga, webtoons, and web novels with real analytics, AniList sync, and AI-powered Novelle Rewind.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

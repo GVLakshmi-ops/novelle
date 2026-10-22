@@ -1,0 +1,18 @@
+[
+  {
+    "id": "usr-demo-01",
+    "name": "Elena Vance",
+    "email": "demo@novelle.app",
+    "salt": "ed5dbf6b6da1889c8afa473c7ba84efb",
+    "hash": "73328059d6b8c1e7f6ab023a88bcb489453699f344ee05ade6880dbbb9f9b627ee9b7bcea547ca422b3f8f78ede07a53fd3481b2cfc0fd71af290ac0b529d31c",
+    "createdAt": "2026-10-22T08:39:15.789Z"
+  },
+  {
+    "id": "usr-1792658373974-crr1f",
+    "name": "Aria Thorne",
+    "email": "aria@example.com",
+    "salt": "c5f1dcc2c73fe16f92c259a2c6f0e177",
+    "hash": "e2e5bf6c6ea35a043e7493ed87a073290bb6631916092069c831b256f3d912e266b294d3ad51c9b92225298505c3bc1e906b4898c9efb913026ee24f254b60c8",
+    "createdAt": "2026-10-22T08:39:33.974Z"
+  }
+]
